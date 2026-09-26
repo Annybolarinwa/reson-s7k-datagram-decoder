@@ -57,6 +57,15 @@ I tested the scripts with a file named 20160330\_085917.s7k. It has 152 Record 7
 
 The 7018 plot is a beam-versus-sample image, not a water-column image positioned by depth and across-track distance. I have only tested this code on one S7K file, so other record variants may need changes. The S7K file is not included in the repository.
 
+Beam geometry:
+![Beam geometry](outputs/figures/beam_geometry.png)
+
+Snippet samples:
+![Snippet samples](outputs/figures/snippet_example.png)
+
+Beamformed amplitude:
+![Beamformed amplitude](outputs/figures/beamformed_amplitude.png)
+
 # 
 
 # 
