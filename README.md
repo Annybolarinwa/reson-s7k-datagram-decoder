@@ -11,7 +11,7 @@ The reader goes through an S7K file and counts the different record types. It ca
 
 
 
-To run it, open the folder in PyCharm and install the packages from requirements.txt in your virtual environment:
+To run it, open the folder in PyCharm or other IDE and install the packages from requirements.txt in your virtual environment:
 
 
 
