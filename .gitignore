@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+
+# Local sonar datasets (do not publish proprietary/large survey data)
+*.s7k
+
+# Generated outputs
+outputs/*.csv
+outputs/figures/*.png
+!outputs/.gitkeep
+!outputs/figures/.gitkeep
