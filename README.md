@@ -31,19 +31,19 @@ Then run the scripts you want from the project folder:
 
 
 
-&#x20;   python examples/01\_record\_summary.py
+&#x20;   examples/01\_record\_summary.py
 
-&#x20;   python examples/02\_sonar\_settings.py
+&#x20;   examples/02\_sonar\_settings.py
 
-&#x20;   python examples/03\_plot\_beam\_geometry.py
+&#x20;   examples/03\_plot\_beam\_geometry.py
 
-&#x20;   python examples/04\_plot\_snippet.py
+&#x20;   examples/04\_plot\_snippet.py
 
-&#x20;   python examples/05\_export\_snippets\_csv.py
+&#x20;   examples/05\_export\_snippets\_csv.py
 
-&#x20;   python examples/06\_check\_beamformed.py
+&#x20;   examples/06\_check\_beamformed.py
 
-&#x20;   python examples/07\_plot\_beamformed.py
+&#x20;   examples/07\_plot\_beamformed.py
 
 
 
