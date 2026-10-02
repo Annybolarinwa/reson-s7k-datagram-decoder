@@ -1,6 +1,6 @@
 # RESON S7K Datagram Decoder
 
-Copyright (c) 2023 Musa Animashaun
+
 
 
 I started this project in 2023 to see if I could read RESON S7K files with Python. At the time I was mainly interested in Record 7018, which contains beamformed amplitude and phase samples. I later cleaned up the code and added a few scripts for looking at the records in a file.
@@ -69,4 +69,4 @@ Beamformed amplitude:
 # 
 
 # 
-
+Copyright (c) 2023 Musa Animashaun
